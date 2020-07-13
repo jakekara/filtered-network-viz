@@ -1,0 +1,810 @@
+id,label
+8,Evelyn Cohen
+11,Hallie F. Flanagan
+12,Helen G. Gaskill
+13,Helen Shipper
+15,Isabel Wilder
+17,Katherine A. Livingston
+18,Marie G. Hoffman
+19,Marion Beeson
+20,Mary Louise White
+26,Muriel Stevens
+38,Alma Lind Randall
+39,Anne Shiras
+45,Grace Ruthenburg
+49,Hortense Moore
+56,Marguerite Drennan
+59,Marion Edwards
+60,Mary Ellen Bute
+64,Ruth Emerson Knight
+125,Maude Humphrey
+137,Ruth C. Barber
+145,Elizabeth James
+156,Virginia Eggleston
+162,Elizabeth Conradi
+175,Maida C. Darnton
+181,Adelaide C. Whitman
+183,Alice Traver
+184,Alma Bracht
+211,J. Audrey Clark
+222,Marian P. Edwards
+231,Virginia Princehouse
+238,Gretchen H. Steiner
+242,Katherine T. Clugston
+246,Rose Bogdanoff
+247,Ruth Chamberlain Barber
+254,Esther Beckley
+272,Louise Barley
+274,Nancy Ferguson
+279,Vio Mae Powell
+300,Alice Garwood
+344,E. Jane Norton
+378,Priscilla Flowers
+432,Lucilla W. Potter
+452,Virginia V. Tryon
+460,Catherine F. Reighard
+505,Andrina McIntyre
+508,Dorothy Coxe
+510,Elaine Ryan
+511,Elizabeth Elson
+514,Jacquelyn Green
+516,Katharine Clugston
+519,Mary Grahn
+520,Sarah V. Hodges
+521,Virginia Steele
+548,Marjorie Krantz
+550,Maxine F. Melson
+551,Olive L. Presler
+560,Alma Becker
+581,Grace Ruthenberg
+589,Mary Frances Stout
+590,Mary Vaughan
+596,Phyllis Lin
+598,Sarah Vernon Hodges
+612,Dorothy Weld
+616,Elspeth Woodward
+621,Genevieve R. Jefferson
+639,Mary S. Hall
+644,Nelle C. Wiley
+650,Susan Borden
+696,Anne Spock
+697,Barbara Burnett
+699,Barbara Rose
+700,Betty Spock
+701,Carolyn Durand
+702,Catherine Kowenhoven
+703,Catherine McAndrews
+704,Claudia Hatch
+705,Elizabeth Johnson
+707,Harriet Meyer
+709,Harriet Rantoul
+710,Helen Foster
+711,Helen Hitchcock
+712,Helen Sanford
+714,Julie Hawkins
+715,Katharine Elkus
+716,Katherine Ewing
+717,Margaret Clifford
+718,Margaret James
+721,Margaret Pope
+723,Marjorie Grote
+724,Mary Trevvett
+726,Mildred Boericke
+727,Rosalind Howe
+729,Rosamond Morrison
+730,Sarah Shiras
+731,Virginia Herrick
+732,Winifred Compton
+788,Dorothy Rawson
+805,Harriet S. Taylor
+825,Morgan Cavett
+848,Connie Imstedt
+854,Elizabeth Esposito
+855,Evelyn Parker
+866,Helen Schoeni
+877,Mabel Coop
+897,Agnes Bane
+904,Barbara Collison
+919,Eloise C. Smith
+925,Gertrude M. Perelmutter
+936,Jane Markle
+963,Virginia D. Becker
+970,Clara Hall
+979,Emily Kingsbery
+980,Estelle Cozine
+981,Esther Alger
+982,Ethel Morgan
+995,Hazel Strayer
+1019,Virginia Roediger
+1029,Phyllis Marschall
+1075,Eleanor Williams
+1126,Beatrice Beach
+1129,Charlotte Larson
+1130,Constance Welch
+1149,Elizabeth Kimball
+1152,EOdyth Carliph
+1172,Hollis Mitchell
+1173,Ilona E. Bucko
+1174,Irene Mills
+1181,Joyce Lichtenstein
+1185,Mada Gage
+1187,Marjorie A. Hughes
+1188,Maryn Myers
+1189,Mildred Sutherland
+1190,Mildred W. Starkweather
+1205,Virginia Lee Comer
+1224,Doris Frankel
+1225,Edith I. Allen
+1228,Edith Stebbins
+1230,Elisabeth Wehner Smith
+1245,Jane Q. Ogborn
+1252,Katherine Hoover
+1254,Marjorie Hertsche
+1255,Mary Merrill
+1259,Marynn Older
+1260,Mildred A. Karch
+1265,Miriam Clymer
+1266,Miriam Doan
+1267,Miriam Lewis
+1269,Phyllis Stohl
+1270,Rebecca Gallagher
+1271,Rhoda Rammelkamp
+1275,Rose Veselak Land
+1284,Alice L. Mathews
+1318,Helen M. Cohn
+1319,Helen Rovene Williams
+1357,Cleland Davis
+1419,Elisabeth Averill
+1430,Irma R. Jones
+1431,Irma J. Smithton
+1445,Mary Wilsey
+1446,Mercedes Moore
+1460,Ruth Champlin
+1463,Sarah Emily Brown
+1478,Dorothy McLaughlin
+1491,Gladys S. Kuehne
+1500,Harriet Smith
+1504,Hope Decatur
+1506,Jane Alexander
+1508,Joni Koenig
+1516,Lucille Newman
+1518,Marie Brown
+1525,Norma Fuller
+1531,Rita Haskin
+1540,Ruth Lane
+1550,Caretta E. Miles
+1565,Lucy W. Swift
+1567,Mary Jane Alspach
+1576,Virginia Miller
+1583,Amy Jacobs
+1587,Barbara Girsdansky
+1602,Eleanor H. Furst
+1612,Harriet Richardson
+1615,Helen Ward
+1636,Margaret Hazlewood
+1637,Margaret Ulmer
+1638,Marion Hazard
+1661,Beatrice Brill
+1676,Elizabeth Stearns
+1682,Genevieve Bonner
+1692,Hope Norman
+1694,Iris Manley
+1695,Irma E. Loewenstein
+1710,Lucille McGuire
+1711,Margaret Potter
+1712,Mary Wills
+1715,Miriam Stern
+1721,Sally Stearns
+1738,Jacqueline Soans
+1742,Patricia Montgomery
+1745,Sarah Click
+1761,Gloria Gingold
+1766,Margaret Gnau
+1767,Mary Elizabeth Plehn
+1768,Mary P. Schenck
+1773,Priscilla Langenbach
+1776,Shirley Graham
+1778,Solveig Wenzel
+1789,Constance M. Conrad
+1791,Daisy Pickman
+1804,Elaine Schwartz
+1806,Elizabeth Harris
+1807,Elizabeth von Holstein
+1808,Emily Nelson
+1815,Grace Bailey
+1822,Jane Hosford
+1823,Jane P. Vosper
+1828,Julia Harned
+1829,Kathleen Cable Johnson
+1834,Margaret Thomson
+1835,Margaret Ting
+1836,Marguerite Gurney
+1839,Mary Jane Chiles
+1840,Mary Jeffrey Welles
+1842,Naomi Mattuck
+1855,Sally Lindsay
+1856,Sally-Ross Dinsmore
+1859,Virginia H. Mealy
+1861,Anna Cooke
+1881,Dorothy Q. Holmes
+1923,Lisa von Holstein
+1926,Martha Wakefield
+1938,Rae Dalven
+1970,Anne Clark
+1974,Betsy Stevens
+1975,Betty Chiquet
+1976,Betty Jean Hertz
+1979,Elinor Cutler
+1982,Elizabeth N. Gillelan
+1983,Emma Lou Kehler
+1990,Katherine Arthur
+1991,Louise Lichtman
+1992,Madeleine Thornton
+1994,Marcia Unger
+1995,Mary Shaw
+1998,Natalie E. White
+2003,Ruth Handel
+2004,Ruth Lescher
+2007,Sybil Bender
+2008,Virginia Dorris
+2013,Agnes Birney
+2016,Betty Coe Armstrong
+2025,Frances Kuntz
+2039,Martha Van Kleeck
+2041,Mildred Welti
+2061,Barbara Cobell
+2062,Barbara Holmstrom
+2063,Barbara Shure
+2065,Brenda Ericson
+2067,Carmen Capalbo
+2068,Catherine Hilderman
+2069,Cecile Burg
+2075,Doris Jones
+2076,Dorothy Latta
+2077,Elizabeth M. Birdsall
+2079,Estelle Morrison
+2098,Joan Feldman
+2100,Joan Pollak
+2112,Margaret Speer
+2113,Marion Teter
+2114,Mary Lou Williams
+2116,Nina Sittler
+2137,Sandy Comora
+2142,Sarah A. Parham
+2156,Ada Ward
+2169,Edith Dallas Brody
+2170,Eleanor Bailis
+2176,Glory M. Cotting
+2183,Hazel Woodhouse
+2197,Joan Mattison
+2202,Julia Kunze
+2205,Margaret McDonough
+2213,Martine Bartlett
+2215,Marylyn Evans
+2217,Nancy C. Graves
+2220,Nina Gumpert
+2227,Patricia Freeman
+2228,Patricia Jacobs
+2230,Phyllis Kaler
+2231,Renice Telfair
+2252,Ruth Rowe
+2255,Virginia Grace
+2256,Virginia Wilson
+2261,Blanche Muldrow
+2284,Sarah M. Sigler
+2290,Alice Harmer
+2292,Ann Saunders
+2293,Anne Shropshire
+2297,Catherine L. Martin
+2301,Elaine Sherrill
+2307,Eugenia Harper
+2311,Helen Tapper
+2319,Jeanne Burke
+2325,Martha Richardson
+2327,Mary Popovich
+2333,Mollie Baxter
+2338,Nyna Brael
+2341,Olive Atkinson
+2354,Robin Lacy
+2356,Ruth Schell
+2357,Sally Stubblefield
+2359,Sarah Alden Parham
+2361,Val Chao
+2367,Alida Vanamee
+2377,Jill Vieau
+2383,Mary E. Forrest
+2392,Aubrey L. Moore
+2393,Beverly Wilson
+2394,Carroll V. Howe
+2401,Helen O. Trillhus
+2408,Mary Graham
+2411,Nadya Grushetsky
+2412,Patricia Cole
+2414,Phyllis Ockene
+2419,Sue Ann Young
+2426,Anne de Coursey
+2427,Anne Knoll
+2430,Barbara J. Mooney
+2431,Barbara Murray
+2432,Betty Wiles
+2434,Carol Holmes
+2435,Christie Barter
+2437,Dolly Davis
+2445,Elizabeth Garfield
+2458,Joy Grodzins
+2459,Juda Levie
+2460,Judith Barker
+2470,Virginia Fraley
+2476,Dorothy Pierson
+2483,Marion Herrod
+2484,Mary Lou Blattspieler
+2487,Mimi Bowen
+2495,Bettsanne Norris
+2496,Carol L. Thompson
+2498,Christine Burke
+2500,Cindy Stevens
+2501,Edwina Cahill
+2502,Elizabeth P. MacLeod
+2503,Grace E. Tuttle
+2505,Jo Carner
+2512,Marion Villani
+2513,Mary W. Bartlett
+2515,Nilda Gonzalez
+2517,Patricia Harris
+2518,Phyllis C. Johnson
+2528,Sonya G. Goldman
+2529,Sue Ann Gilfillan
+2543,Elinor M. Weis
+2545,Frances Keogh
+2563,Isabel Rigby
+2572,Kathryn Frye
+2575,Lucy Weston Swift
+2578,M. Georgina Johnson
+2579,M. Winifred Hanley
+2584,Margo R. Frankel
+2607,True Compton
+2637,Helen Marcy
+2643,Janet Marshall
+2652,Margo Rene Frankel
+2653,Marion Rooney
+2663,Ruth Hale
+2666,Sarita Hopkins
+2669,Virginia A. Meyer
+2674,Adeline M. Ramond
+2676,Anne Meacham
+2678,Barbara Bennett
+2680,Betty Shakespeare
+2681,Betty Smith
+2682,Catherine Blankenship
+2691,Gloria B. Beckerman
+2693,Jane Hickman
+2695,Jo Dunbar
+2697,Judith Smith
+2698,June Kirk
+2701,Margaret Feury
+2703,Pamela Stiles
+2704,Patricia Datz
+2706,Rebecca Hargis
+2709,Trudy Murrow
+2712,Yvonne Cody
+2715,Allison S. Hall
+2720,Betsey Bacon
+2723,Carroll B. Lusk
+2732,Elaine M. Bullis
+2734,Elizabeth D. Lyman
+2748,Jane L. Blackman
+2758,Lindsay Workman
+2761,Louise Young
+2762,Lynne Rogers
+2763,Marie-Louise Dietrichson
+2767,Phyllis Gurd Smith
+2773,Rose Marie Gregorio
+2775,Sylvia Stockdale
+2856,Ethel Anne Morgan
+2867,Janice V. Perls
+2895,Florence Spence
+2930,Maxine M. Levy
+2938,Barbara W. Pearson
+2967,Lucy Fairbanks
+2968,M. Elizabeth Tyler
+2969,Mary K Sands
+2986,Elsa Nessenson
+3010,Anne Azgapetian
+3015,Bertha Gillespie
+3016,Betty Knox
+3020,Dorothy Ingalls
+3032,Gertrude Prokosch
+3044,Josephine Jay
+3049,Lois M. Warden
+3052,Mary-Catharine Thompson
+3067,Velona Pilcher
+3111,Lidian Ruth Moore
+3132,Violet Robinson
+3144,Elizabeth L. Knox
+3155,Lillian Collins
+3158,Meryl Kligerman
+3164,Ruth Harsha
+3169,Barbara B. O'Neil
+3211,Grace Crawford
+3258,Virginia More Roediger
+3278,Edna A. Hall
+3281,Elinor Hopkinson
+3286,Esther Bead
+3305,Marion Finley
+3317,Roberta Winter
+3491,Dorothy Hackett
+3546,Helen Peabody
+3548,Hermine Summer
+3553,Marion Morgan
+3560,Doris Humphrey
+3561,Eleanor King
+3607,Katherine Reid
+3628,Amelia Jacobs
+3637,Elizabeth Duncan
+3638,Ethelyne Hosley
+3656,Mariam Gaynor
+3728,Rosamond B. Hodges
+3783,Gertrude Hall
+3815,Virginia Keller
+3856,Dorothy Bell
+3857,Dorothy Eaton
+3869,Kathleen Burnett
+3872,Lutie Bancroft
+3883,Stella Booth
+3933,Janet Imbrie
+3937,Louise Hoguet
+4010,Dorothy Neumann
+4011,Dorothy Sainsbury
+4012,Eleanor Aycock
+4027,Alice Crocker
+4031,Christie Tollefson
+4034,Eleanor Lodge
+4052,Monaca Acri
+4053,Priscilla Towers
+4080,Emily White
+4089,Helen Field
+4094,Jacinta Kampmeier
+4106,Joy Rogers
+4110,Lorraine Crittendon
+4116,Myrtle Oulman
+4117,Patricia Lang
+4179,Jane B. Anderton
+4196,Polly Hale
+4242,Helene Missirian
+4253,Leone R. Freeman
+4255,Lucille Maureen McGuire
+4261,Helene Grant
+4274,Susanne Ketchum
+4277,Virginia B. Weaver
+4285,Beatrice E. Graves
+4295,Helene Winifred Missirian
+4329,Francelia Smith
+4334,Jane Walz
+4342,Mary Louise Spang
+4360,Anita P. Forbes
+4389,Mary Percy Schenck
+4390,Maureen McGuire
+4441,Mary Schenck II
+4448,Ruth Tucker
+4519,Mary-Elizabeth Baldwin
+4535,Ada Holmes
+4537,Betty Cohen
+4538,Betty Lou Evans
+4540,Carolyn Mardenbro
+4548,Evelyn Lanier
+4570,Nancy Lee Keith
+4578,Ronietta Cable
+4601,Miss Ardito
+4602,Miss Belcher
+4603,Miss Chiles
+4605,Miss Click
+4607,Miss Fern
+4608,Miss Geurney
+4611,Miss Lindsay
+4613,Miss Martin
+4615,Miss Soanes
+4616,Miss Wells
+4617,Zita Y. Smail
+4637,Mrs. William Anderson
+4642,Betzi Durham
+4646,Elinor Martin
+4647,Enid Gilbert
+4662,Lucille Clarke
+4663,Margaret Pickman
+4665,Maxine Schlingman
+4668,Olivia Davis
+4669,Patricia Cool
+4670,Patricia Havens
+4679,Virginia Harris Mealy
+4714,Miss Bailey
+4715,Miss Crouse
+4716,Miss Cutler
+4717,Miss Donell
+4718,Miss Harris
+4719,Miss Henry
+4720,Miss Kleiner
+4721,Miss Miterstein
+4722,Miss Nelson
+4723,Miss Ramsey
+4725,Miss Sterne
+4744,Mrs. Henry
+4745,Anne M. Kleiner
+4748,Betty K. Graybill
+4752,Catherine Strout
+4781,Mary H. Dickson
+4789,Patricia Meyer
+4805,Barbara Begole
+4819,Helene Jaffin
+4840,Elizabeth Armstrong
+4860,Anita Lande
+4878,Mary Walters
+4901,Isabel Erichsen
+4905,Marjorie L. Dycke
+4907,Nancy Partridge
+4918,Celeste Kohler
+4929,Juana de Laban
+4940,Ruth Apprich
+4953,Esther Glasser
+4954,Eva Dutkovich
+4967,Marilyn Maloney
+4985,Marion K. Simonson
+5027,Eleanor Evans
+5030,Emily Demzak
+5031,Esther Lovett
+5033,Ethel Edwards
+5035,Eugenia Wolverton
+5037,Fay Garvin
+5042,Geraldine Rehrig
+5046,Hazel Garvin
+5047,Helen Dube
+5048,Helen Lee
+5049,Janet Stratton
+5051,Jennie Darling
+5061,Kathleen Balmer
+5065,Lillian Eudowe
+5066,Louise Willoughby
+5072,Mary Reid
+5073,Mildred Kramer
+5075,Mildred Sperry
+5079,Myrtle Culver
+5081,Nan T. Corbett
+5083,Olive Dunbar
+5085,Patricia Fargo
+5087,Renee Brainerd
+5093,Ruth Lester
+5115,Gaynelle Nixon
+5143,Beverly Parker
+5151,Phyllis Baker
+5160,Carolyn White
+5166,Eva Wolas
+5175,Myrna Fenn
+5196,Edda Thorarinsson
+5198,Eloise Jones
+5206,Juile Harris
+5214,Marsha Radner
+5221,Shirley Wood
+5222,Thelma Oshinsky
+5235,Dorothy H. Ward
+5242,Margaret Coffin
+5250,Virginia Archer
+5311,Margaret Edwards
+5335,Katy Martin
+5353,Beth Dace
+5359,Claire Sheridan
+5395,Anna L. K. Syarse
+5404,Gertrude Puccia
+5418,Eilene Crawley
+5422,Gertrude Kraft
+5428,Malissa Childs
+5430,Margaret Goodwillie
+5431,Marillyn Barker
+5514,Felicity A. Robinson
+5515,Florence Freedman
+5529,Marle Web
+5531,Mary E. McBride
+5589,Martha Posey
+5599,Phyllis Smith
+5604,Berna Kroll
+5613,Charlotte Alexander
+5617,Esther Palmer
+5619,Francine Rubin
+5635,Nina Polumbaum
+5654,Ann Patterson
+5681,Eda Margaret Henry
+5693,Mardette Edwards
+5733,Beth Ash
+5747,Edith Alpert
+5761,Lila Paris
+5766,Molly Niederlander
+5801,Marjorie Dickinson
+5809,Vicky Dollard
+5812,Barbara Kleinspehn
+5825,Edwina Dime
+5828,Elizabeth T. Lewis
+5844,Lorraine Truscott
+5864,Alice Raphael
+5897,Charlotte Lucas
+5908,E. Louise Young
+5971,M. Warda Drummond
+5983,Phyllis M. G. Smith
+6094,Dorothy Lusk
+6172,Grace Lovat Fraser
+6211,Dorothy B. Bland
+6220,Marilyn Rogers
+6226,Sarah Sigler Bullock
+6285,Dorothy Blend
+6299,Lynn Rogers
+6333,Mrs. W. Skelton
+6371,Shirin Devrim Lau
+6383,Edya Signer
+6397,Betty Ann Metz
+6399,Ellen Langdon
+6407,Patti Cole
+6422,Betty Ann Garfield
+6426,Carol Hope Hallock
+6433,Fay Moore
+6446,Nancy Stivers
+6468,Doris Payne
+6472,Elizabeth Sprigge
+6491,Pamelia Payson
+6522,Mary Joyce Coreth
+6534,Anna Leonard
+6538,Carol Hallock
+6571,Betty Lewis
+6587,Jacinto Benavento
+6625,Eleanor Erret
+6707,Gertrude Stein
+6730,Ariel Ballif
+6738,Dorothea Watkins
+6749,Joan Phillips
+6751,Joyce Yu
+6755,Linda Koffman
+6772,Sylvia Blenner
+6799,Rebecca Young
+6803,Trudy Kraft
+6841,Jo Young
+6845,Mary Aley
+6857,Betsy Ann Bailey
+6883,Louise Rudd
+6885,Mary Coreth
+6931,Sally Bianchi
+6983,Virginia McGuire
+7000,Evelyn M. Logan
+7015,Ulrike Penzoldt
+7025,Christine Fry
+7038,Joan Zell
+7111,Shirley Grayson
+7138,Vivienne T. Atkins
+7145,Barbara Talmadge
+7173,Jo Ann Messina
+7176,Judy Harris
+7178,Louise LaPeri
+7179,Lucille Cozenza
+7181,Mary Ann Messina
+7182,Mary Harris
+7213,Sandy Rawden
+7393,Joan Ruttiger
+7402,Wynne Pearce
+7427,Betty Jane Dawson
+7432,Gilda Milano
+7438,Joyce B. Talal
+7440,June Peach
+7441,Leonore Goodkin
+7443,Mary Hazzard
+7446,Susan Koffman
+7491,Mary Hunter
+7582,Sue Carroll
+7591,Elizabeth B. Cubeta
+7593,Gerri Patz
+7604,Ruth C. Gillespie
+7662,Harriet Pattison
+7700,Charlotte Durkee
+7702,Cynthia Thomas
+7709,Elizabeth Wiles
+7729,Lois Porter
+7748,Veryle K. Allison
+7768,Vinnette Justine Carroll
+7787,Jo Ann Gilberg
+7795,Patricia Acorn
+7796,Patricia VanGelder Harris
+7803,Susan Acorn
+7817,Joanne Telford
+7824,Lucinda Abbey Stevens
+7825,Lucinda Stevens
+7826,Mary Ellen Hecht
+7850,Eileen Y. Nakamura
+7987,Ann Haskell
+7989,Ann T. Mancini
+7992,Antoinette Marra
+8001,Barbara Flynn
+8048,Donia Adzima
+8077,Ellen Browning
+8110,Gloria Gentile
+8128,Heidi Krall
+8141,Jacqueline Beymer
+8143,Jacquelynne Moody
+8152,Jane Barrow
+8157,Joan Fisher
+8160,Joan Scanzillo
+8197,Marie Huntley
+8203,Martha Jean Hakes
+8205,Mary Kelly
+8207,Mary V. Sillers
+8221,Nancy Niebuhr
+8298,Sandra Beach
+8314,Susan Tracy
+8328,Viola Romanides
+8334,Ynez Lynch
+8355,Marjorie MacKenzie
+8370,Rosalind Ivan
+8392,Grace T Tuttle
+8444,Naomi Gurian
+8455,Sarah Mendelsohn
+8457,Susan Silverman
+8506,Val Axelrad
+8512,Dana Egan
+8539,Trudi Egan
+8540,Wendy Nora
+8544,Caroline Grossbamm
+8571,Judith Zommick
+8574,Liz MacLeod
+8588,Winifred Katzin
+8613,Margaret Carner
+8636,Doris Canarie
+8637,Doris P. A. Robertson
+8653,Ruth M. Fifield
+8661,Barbara E. Barlow
+8662,Barbara Ivers
+8675,Dorothy Chace
+8698,Judith O'Keeffe
+8699,Lisa Davidson
+8701,Lydia Chester
+8702,Margaret Davies Carner
+8706,Nancy Jean Schoen
+8728,Wylma Lynn White
+8730,Zelma Weisfeld
+8754,Marjorie Maganini
+8773,Anita Travaglia
+8791,Jackie Pomerleau
+8796,Judith Shroeder
+8799,Liza Heath
+8865,Alice Kraus
+8888,Judy O'Keeffe
+8891,Nancy G. Schoen
+8898,Phoebe Myhrum
+8904,Shirley Lanser
+9005,Donna Snoek
+9011,Ellen Klein
+9030,Judy Sokol
+9041,Nancy Shank
+9081,Dorothy Meltzer
+9140,Carmel Affinito
+9151,Mary Mazzacane
+9162,Barbara Myhrum
+9170,Joan Haddad
+9173,Kathleen Conneely
+9174,Margo Hand
+9180,Ruth Brinkman
+9213,Louise Hoffman
+9225,Sasha von Schoeler
+9227,Thelma Ann Jones
+9231,Ellen Terry
+9235,Gladys Seidelhuber
+9242,Mildred Newbury
+9255,Suzi Baker
+9260,Alice Avanozian
+9265,Beth Bready
+9268,Evelyn Hoffman
+9278,Nora Owens
+9285,Ruth Weisler
+9286,Ruth Wolff
+9310,Hilda Vieau
+9415,Carol M. Thomas
+9436,Lynn Vandermeulen
+9450,Karen Kestler
+9453,Karen Mower
+9454,Janet D'Esopo
+9456,Virginia Cretella
+9476,Janet Leonard
+9483,Mary Warren Bartlett
+9506,Sandy Souter

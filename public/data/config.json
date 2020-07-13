@@ -1,0 +1,19 @@
+{
+    "meta":{
+        "title":"Women in theater",
+        "description": "A network of women in theater"
+    },
+    "layouts":{
+        "women-drama":{
+            "label":"women in drama",
+            "nodeFile":"/data/fa2l-nodes.json",
+            "edgeFile":"/data/fa2l-edges.json",
+            "filters":{
+                "nodes":{
+                    "attribute":"year",
+                    "inputType":"multirange"
+                }
+            }
+        }
+    }
+}
