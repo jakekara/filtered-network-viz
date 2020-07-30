@@ -1,5 +1,11 @@
+
 import React from 'react';
 
+/**
+ * A button representing a layout
+ * @param {*} layout 
+ * @param {*} callback 
+ */
 function Button(layout, callback) {
 
     return <button
@@ -7,9 +13,17 @@ function Button(layout, callback) {
         key={layout.label}>{layout.label}</button>
 }
 
+/**
+ * A tool to select from one or more layouts
+ * @param {*} props 
+ */
 export default function LayoutPicker(props) {
-    console.log("Rendering LayoutPicker with layouts", props)
-    return (<div>Layout Picker
+
+    return (<div style={{
+        boxSizing:"border-box",
+        padding: 10
+    }}>
+        <h3>Layout Picker</h3>
         <div>
             {Object.keys(props.layouts).map(k => Button(props.layouts[k], props.setLayoutCallback))}
         </div>

@@ -1,24 +1,41 @@
 import React, { useEffect, useState } from 'react';
 import LayoutPicker from "./components/LayoutPicker";
-import LayoutViewer from "./components/LayoutViewer";
+import FilterPane from "./components/FilterPane";
+// import LayoutViewer from "./components/LayoutViewer";
+import NetworkViz from "./components/NetworkViz"
+import loadJSON from "./utils/loadJSON";
 
 function App() {
 
   const [config, setConfig] = useState({});
+  const [visible, setVisible] = useState({ nodes: [], edges: [] });
+
   // const [layout, setLayout] = useState();
+  const filters = config.layout ? config.layout.filters : [];
+  const setLayout = (layout => setConfig({ ...config, layout }))
 
   useEffect(() => {
     fetch("data/config.json")
       .then(resp => resp.json())
       .then(data => {
         setConfig({ ...data, layout: data.layouts[Object.keys(data.layouts)[0]] })
-        // setLayout(data.layouts[Object.keys(data.layouts)[0]])
-        })
+      })
   }, []);
 
-  console.log("config", config)
+  useEffect(() => {
+    if (!config.layout) { return }
 
-  const setLayout = (layout => setConfig({...config, layout}))
+    // fetch external node and edge data
+    Promise.all([config.layout.edgeFile, config.layout.nodeFile].map(loadJSON))
+      .then(([edgeData, nodeData]) => {
+        setConfig({
+          ...config,
+          edges: edgeData,
+          nodes: nodeData
+        })
+
+      });
+  }, [config.layout]);
 
   return (
     <div className="FilteredNetworkApp">
@@ -30,8 +47,19 @@ function App() {
           setLayoutCallback={setLayout}
           selectedLayout={0}
           layouts={config.layouts || []} />
-        <LayoutViewer
-          layout={config.layout} />
+
+        <FilterPane
+          data={config}
+          filters={filters}
+          updateVisible={setVisible}
+        />
+
+        <NetworkViz
+          visibleNodes={visible.nodes}
+          visibleEdges={visible.edges}
+          nodes={config.nodes}
+          edges={config.edges}
+        />
       </main>
     </div>
   );

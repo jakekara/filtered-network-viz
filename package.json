@@ -10,9 +10,11 @@
     "graphology": "^0.17.1",
     "graphology-generators": "^0.10.1",
     "react": "^16.13.1",
+    "react-compound-slider": "^2.5.0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "sigma": "^2.0.0-alpha32"
+    "sigma": "^2.0.0-alpha32",
+    "typescript": "^3.9.7"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
