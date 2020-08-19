@@ -3,6 +3,7 @@ import { MultiUndirectedGraph } from 'graphology';
 
 // TODO - figure out why this isn't the entrypoint for the package
 import * as sigma from "sigma/build/sigma.min"
+import { render } from '@testing-library/react';
 
 export default function renderNetwork(
     container,
@@ -66,7 +67,19 @@ export default function renderNetwork(
         nodeReducer
     });
 
-    window.graph = graph;
-    window.renderer = renderer;
-    window.camera = renderer.camera;
+    // window.graph = null
+    // window.renderer = null
+    // window.camera = null
+
+
+    // this is in the sample code, but I don't know why.
+
+    // window.graph = graph;
+    // window.renderer = renderer;
+    // window.camera = renderer.camera;
+
+    // return a cleanup function so memory can be released
+    return function(){
+        renderer.kill()
+    }
 }

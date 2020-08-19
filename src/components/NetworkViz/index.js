@@ -18,7 +18,7 @@ export default function NetworkViz(props) {
         if (!props.edges) {
             return;
         }
-        renderNetwork(vizContainer.current,
+        return renderNetwork(vizContainer.current,
             {
                 nodes: props.nodes,
                 edges: props.edges,
